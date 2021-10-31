@@ -1,6 +1,6 @@
 # README
 
-#Compass Project Management
+# Compass Project Management
 
 Things you may want to cover:
 
